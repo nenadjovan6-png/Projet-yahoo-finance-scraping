@@ -79,4 +79,4 @@ Ce projet démontre la faisabilité d'une collecte automatisée et éthique de d
 
 ---
 *Rapport généré dans le cadre du projet d'Analyse de Données Financières - 2026*
-Rendement_i = γ₀ + γ₁ log(Volume_i) + γ₂ Volatilité_i + u_i
+
