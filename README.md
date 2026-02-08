@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/8f99cfd9-f037-4acd-a9a3-715d04417a68
 
-#📊 Analyse des Actions les Plus Actives du Marché Boursier : Une Approche par Web Scraping et Traitement de Données
+# 📊 Analyse des Actions les Plus Actives du Marché Boursier : Une Approche par Web Scraping et Traitement de Données
 
 ## 📌 1. Introduction
 Dans un contexte de globalisation financière et de démocratisation de l'investissement, l'accès à des données boursières actualisées constitue un enjeu majeur. Ce projet s'inscrit dans une démarche d'économie numérique appliquée visant à automatiser la collecte, le traitement et l'analyse des données des actions les plus actives du marché, définies par leur volume d'échanges journalier.
