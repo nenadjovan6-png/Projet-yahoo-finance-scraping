@@ -2,6 +2,8 @@
 
 https://github.com/user-attachments/assets/8f99cfd9-f037-4acd-a9a3-715d04417a68
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)([https://colab.research.google.com/drive/1Ib4H27ScR0PXdPGVY6cone8xNxlnfcOQ#scrollTo=hcNqoNuHhlE8])
 # 📊 Analyse des Actions les Plus Actives du Marché Boursier : Une Approche par Web Scraping et Traitement de Données
 
 ## 📌 1. Introduction
