@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/8f99cfd9-f037-4acd-a9a3-715d04417a68
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)([https://colab.research.google.com/drive/1lGU9mnjY2Na3FXPJM_oVlswruLVj9Yif#scrollTo=JThJ-HuREINg])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1fICB-ce_p3h_MQPvRTD5our9kiOxf4d4#scrollTo=ZA-HVI9YEINP)
 # 📊 Analyse des Actions les Plus Actives du Marché Boursier : Une Approche par Web Scraping et Traitement de Données
 
 # 📈 Yahoo Finance Scraper — Most Active Stocks
