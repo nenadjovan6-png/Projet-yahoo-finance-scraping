@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/8f99cfd9-f037-4acd-a9a3-715d04417a68
 
 ## 📌 Description et objectif du projet
 
-Ce projet est un **outil de web scraping entièrement automatisé** qui extrait les données boursières en temps réel depuis [Yahoo! Finance](https://finance.yahoo.com/markets/stocks/most-active/), plus précisément la page des **"Most Active Stocks"** — les 200 actions présentant le volume d'échange quotidien le plus élevé sur le marché américain.
+Ce projet est un **outil de web scraping entièrement automatisé** qui extrait les données boursières en temps réel depuis [Yahoo! Finance](https://finance.yahoo.com/markets/stocks/most-active/), plus précisément la page des **"Most Active Stocks"** — les actions présentant le volume d'échange quotidien le plus élevé sur le marché américain.
 
 ### 🎯 Pourquoi ce projet ?
 
