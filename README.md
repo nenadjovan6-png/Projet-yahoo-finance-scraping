@@ -327,7 +327,6 @@ Ce projet respecte scrupuleusement les règles suivantes :
 - ⚠️ Ne jamais stocker d'identifiants dans Git (`.gitignore` configuré en conséquence)
 - ⚠️ Ce projet est fourni à titre informatif uniquement et ne constitue pas un conseil en investissement financier
 
-> **Note :** Yahoo Finance propose une API officielle (`yfinance`) qui peut être préférable pour certains usages. Ce projet utilise le scraping direct à des fins pédagogiques, pour illustrer les techniques de parsing HTML.
 
 ---
 
