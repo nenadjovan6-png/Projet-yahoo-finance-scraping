@@ -41,19 +41,6 @@ Pour chaque action, le scraper extrait automatiquement :
 
 ---
 
-## 🗂️ Structure du projet
-
-```
-Projet-Yahoo-Finance-Scraping/
-│
-├── Projet_Technique_scraping.py   # Script principal automatisé
-├── Projet_Technique_scraping.ipynb # Notebook Jupyter (version détaillée/pédagogique)
-│
-├── requirements.txt               # Dépendances Python
-├── .gitignore                     # Fichiers exclus de Git
-└── README.md                      # Ce fichier
-```
-
 ---
 
 ## ⚙️ Instructions d'installation
